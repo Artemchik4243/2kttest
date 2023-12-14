@@ -1,0 +1,12 @@
+{
+    name = "Patrick",
+    age = 20,
+    secretIdentity = "Психопат",
+    powers = new List<string> { "axe", "music" }
+};
+{
+    name = "batmen",
+    age = 30,
+    secretIdentity = "Брюс уэйн",
+    powers = new List<string> { "money", "Robin" }
+};
